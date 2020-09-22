@@ -5,7 +5,7 @@ class _BotCommands:
         self.TarMirrorCommand = 'tarmir'
         self.CancelMirror = 'batal'
         self.CancelAllCommand = 'batall'
-        self.ListCommand = 'cari'
+        self.ListCommand = 'list'
         self.StatusCommand = 'cek'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
@@ -14,7 +14,7 @@ class _BotCommands:
         self.StatsCommand = 'stats'
         self.HelpCommand = 'gak'
         self.LogCommand = 'log'
-        self.CloneCommand = "copast"
+        self.CloneCommand = "pub"
         self.WatchCommand = 'w'
         self.TarWatchCommand = 'tarw'
 
